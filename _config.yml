@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Milan Stürmer"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Rotterdam, Netherlands"
-  employer         : "Erasmus University Rotterdam"
+  employer         : "Erasmus University"
   uri              : # URL
   email            : "hello@milanstuermer.com" 
 
