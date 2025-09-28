@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Milan Stürmer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Rotterdam, Netherlands"
   employer         : "Erasmus University Rotterdam"
   uri              : # URL
