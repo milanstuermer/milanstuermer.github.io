@@ -23,19 +23,19 @@ repository               : "milanstuermer/milanstuermer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Milan Stürmer"
+  avatar           : # "profile.png"
+  name             : # "Milan Stürmer"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher at the Erasmus School of Philosophy"
-  location         : "Rotterdam, Netherlands"
-  employer         : "Erasmus University"
+  bio              : # "Postdoctoral Researcher at the Erasmus School of Philosophy"
+  location         : # "Rotterdam, Netherlands"
+  employer         : # "Erasmus University"
   uri              : # URL
-  email            : "hello@milanstuermer.com" 
+  email            : # "hello@milanstuermer.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=xEaMuMYAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=xEaMuMYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
