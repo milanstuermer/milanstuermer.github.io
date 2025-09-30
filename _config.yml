@@ -27,10 +27,10 @@ author:
   name             : # "Milan Stürmer"
   pronouns         : # example: "she/her"  
   bio              : # "Postdoctoral Researcher at the Erasmus School of Philosophy"
-  location         : # "Rotterdam, Netherlands"
+  location         : "Rotterdam, Netherlands"
   employer         : # "Erasmus University"
   uri              : # URL
-  email            : # "hello@milanstuermer.com" 
+  email            : "hello@milanstuermer.com" 
 
   # Academic websites
   academia         : # URL
