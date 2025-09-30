@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Leuphana University Lüneburg, 2025
-* MA in  Kulturwissenschaften, Leuphana University Lüneburg, 2013
-* BA in Film Studies and Media and Cultural Studies, University of the West of
-England, Bristol, 2014
+* Ph.D Leuphana University Lüneburg, 2025
+* MA Leuphana University Lüneburg, 2013
+* BA University of the West of England, Bristol, 2014
 
 Work experience
 ======
