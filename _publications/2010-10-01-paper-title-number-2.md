@@ -3,7 +3,7 @@ title: "Inheriting Cosmopolitics: Pericles, Whitehead, Stengers"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2.md
-excerpt: 'In this paper, we argue that argue that Pericles' famous funeral oration provides the structure for Whitehead's cosmology, and, ultimately, Stengers' cosmopolitics.'
+excerpt: 'Test.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
