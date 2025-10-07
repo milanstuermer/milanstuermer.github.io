@@ -1,5 +1,5 @@
 ---
-title: 'Inheriting Cosmopolitics: Pericles, Whitehead, Stengers'
+title: "Inheriting Cosmopolitics: Pericles, Whitehead, Stengers"
 collection: publications
 category: manuscripts
 permalink: /publications/2023-01-01-inheriting-cosmopolitics
