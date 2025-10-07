@@ -12,4 +12,3 @@ citation: 'Stürmer, Milan, and Daniel Bella. 2023. ‘Inheriting Cosmopolitics:
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
-By tracing the genealogy of this political ontology back to Pericles' first explicit defense of persuasion as a requisite for civilization, we argue that Pericles' famous funeral oration provides the structure for Whitehead's cosmology, and, ultimately, Stengers' cosmopolitics.
