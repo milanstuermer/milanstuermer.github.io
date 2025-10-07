@@ -6,7 +6,7 @@ permalink: /publication/2021-01-01-errettung-zivilisation
 excerpt: 'This German-language paper investigates the promise of the onto-epistemology of New Animism.'
 date: 2021-01-01
 venue: 'Kulturwissenschaftliche Zeitschrift'
-paperurl: 'https://meiner-elibrary.de/pdfjs/web/viewer.html?file=../../pdf/article/2941/10_2478_kwg_2021_0030_stamped.pdf'
+paperurl: 'https://mediarep.org/bitstreams/25bdcb42-b270-43fe-abe1-63982a01d459/download'
 citation: 'Stürmer, Milan. 2021. &quot;Die Errettung Der Zivilisation: Über Das Versprechen Der Onto-Epistemologie Des Neuen Animismus.&quot; <i>Kulturwissenschaftliche Zeitschrift</i>. 6 (2): 39–56.'
 ---
 
