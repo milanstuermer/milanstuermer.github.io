@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://journals.sagepub.com/doi/full/10.1177/02632764221092300
 excerpt: 'In this paper, we argue that argue that Pericles’ famous funeral oration provides the structure for Whitehead’s cosmology, and, ultimately, Stengers’ cosmopolitics '
-date: 2023
+date: 2023-01-01
 venue: 'Theory, Culture & Society'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/02632764221092300'
 <!-- bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib' -->
