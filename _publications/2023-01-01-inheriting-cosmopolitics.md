@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, we argue that argue that Pericles' famous funeral oration provides the structure for Whitehead's cosmology, and, ultimately, Stengers' cosmopolitics '
-date: 2023
+date: 2023-01-01
 venue: 'Theory, Culture & Society'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/02632764221092300'
 citation: 'Stürmer, Milan, and Daniel Bella. 2023. 'Inheriting Cosmopolitics: Pericles, Whitehead, Stengers'. Theory, Culture & Society 40 (3): 3–21. https://doi.org/10.1177/02632764221092300.'
