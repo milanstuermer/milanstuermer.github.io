@@ -3,7 +3,7 @@ title: "Inheriting Cosmopolitics: Pericles, Whitehead, Stengers"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2.md
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+excerpt: 'This paper deals with the commercial political ontology of Isabelle Stengers. By tracing the genealogy of this political ontology back to Pericles' first explicit defense of persuasion as a requisite for civilization, we argue that Pericles' famous funeral oration provides the structure for Whitehead's cosmology, and, ultimately, Stengers' cosmopolitics.'
 date: 2023-01-01
 venue: 'Theory, Culture & Society'
 paperurl: 'https://journals.sagepub.com/doi/epdf/10.1177/02632764221092300'
