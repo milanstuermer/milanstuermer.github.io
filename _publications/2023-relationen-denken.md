@@ -6,7 +6,7 @@ permalink: /publication/2023-relationen-denken
 excerpt: "This open-access, German langauge chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations."
 date: 2023-01-01
 venue: "Mediale Teilhabe: Partizipation zwischen Anspruch und Inanspruchnahme"
-paperurl: "https://mediarep.org/server/api/core/bitstreams/0685a474-9b56-4b34-bdc0-a5c35ac1857e/content"
+paperurl: "https://meson.press/wp-content/uploads/2023/08/978-3-95796-213-3_Mediale-Teilhabe.pdf"
 citation: "Stürmer, Milan. 2023. &quot;Relationen Denken: Teilhabe, Verwandtschaft Und Innere Beziehungen Nach Marylin Strathern.&quot In <i>Mediale Teilhabe: Partizipation Zwischen Anspruch Und Inanspruchnahme</i>, edited by Beate Ochsner. Meson Press."
 ---
 
