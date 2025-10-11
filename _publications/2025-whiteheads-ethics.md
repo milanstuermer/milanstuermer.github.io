@@ -1,4 +1,3 @@
-
 ---
 title: "Whitehead's Ethics: Fill in the Blanks"
 collection: publications
