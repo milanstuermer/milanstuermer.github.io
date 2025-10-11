@@ -11,5 +11,5 @@ citation: "Stürmer, Milan. 2023. &quot;Relationen Denken: Teilhabe, Verwandtsch
 ---
 
 Der in den New Kinship Studies und besonders von Marilyn Strathern entwickelte Relationsbegriff wurde meist als Antwort auf den Zusammenbruch der Natur-Kultur-Dichotomie aufgefasst. Der vorliegende Text zeigt eine komplementäre 
-Genealogie des Relationsdenkens bei Strathern auf. Auf der Grundlage von Stratherns komplexer Kritik am Thatcherismus sowie ihrer wegweisenden Aufnahme von Bertrell Ollmans "relationaler" Marxlektüre wird Stratherns 
-Unterscheidung zwischen inneren und äußeren Beziehungen dargestellt. Vor dem Hintergrund der ökonomischen Debatten um relationale Technologien in den 1990er Jahren wird die Frage des Verschaltens als Prozess adressiert, der aus externen Relationen interne und aus internen externe werden lässt.
+Genealogie des Relationsdenkens bei Strathern auf. Auf der Grundlage von Stratherns komplexer Kritik am Thatcherismus sowie ihrer wegweisenden Aufnahme von Bertrell Ollmans "relationaler" Marxlektüre wird Stratherns 
+Unterscheidung zwischen inneren und äußeren Beziehungen dargestellt. Vor dem Hintergrund der ökonomischen Debatten um relationale Technologien in den 1990er Jahren wird die Frage des Verschaltens als Prozess adressiert, der aus externen Relationen interne und aus internen externe werden lässt.
