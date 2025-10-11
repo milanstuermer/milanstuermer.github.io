@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Relationen Denken: Teilhabe, Verwandtschaft und Innere Beziehungen nach Marylin Strathern"
 collection: publications
-category: conferences
+category: paper
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: "This open-access, German langauge chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations.“
+date: 2023-01-01
+venue: "Mediale Teilhabe: Partizipation zwischen Anspruch und Inanspruchnahme"
+paperurl: ""
+citation: "Stürmer, Milan. 2023. &quot;Relationen Denken: Teilhabe, Verwandtschaft Und Innere Beziehungen Nach Marylin Strathern.&quot In <i>Mediale Teilhabe: Partizipation Zwischen Anspruch Und Inanspruchnahme</i>, edited by Beate Ochsner. Meson Press."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Der in den New Kinship Studies und besonders von Marilyn Strathern entwickelte Relationsbegriff wurde meist als Antwort auf den Zusammenbruch der Natur-Kultur-Dichotomie aufgefasst. Der vorliegende Text zeigt eine komplementäre 
+Genealogie des Relationsdenkens bei Strathern auf. Auf der Grundlage von Stratherns komplexer Kritik am Thatcherismus sowie ihrer wegweisenden Aufnahme von Bertrell Ollmans „relationaler“ Marxlektüre wird Stratherns 
+Unterscheidung zwischen inneren und äußeren Beziehungen dargestellt. Vor dem Hintergrund der ökonomischen Debatten um relationale Technologien in den 1990er Jahren wird die Frage des Verschaltens als Prozess adressiert, der aus externen Relationen interne und aus internen externe werden lässt.
