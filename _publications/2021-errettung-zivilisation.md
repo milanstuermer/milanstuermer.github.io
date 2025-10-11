@@ -2,7 +2,7 @@
 title: "Die Errettung der Zivilisation: Über das Versprechen der Onto-Epistemologie des Neuen Animismus"
 collection: publications
 category: paper
-permalink: /publication/2021-01-01-errettung-zivilisation
+permalink: /publication/2021-errettung-zivilisation
 excerpt: 'This is an open-access, German-language paper in which I argue that the promise of the onto-epistemology of New Animism is nothing less but to save civilization.'
 date: 2021-01-01
 venue: 'Kulturwissenschaftliche Zeitschrift'
