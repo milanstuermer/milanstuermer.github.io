@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-01-01-whiteheads-ethics
 excerpt: "The paper examines Whitehead's singular guest lecture in Richard Clarke Cabot's seminar in social ethics."
 date: 2023-01-01
-venue: "Process Studies'
+venue: "Process Studies"
 paperurl: "https://scholarlypublishingcollective.org/ps/article/52/2/179/383039/Whitehead-s-Ethics-Fill-in-the-Blanks"
 citation: "Bella, Daniel, and Milan Stürmer. 2023. &quot;Whitehead's Ethics: Fill in the Blanks&quot; <i> Process Studies</i> 52 (2): 179–200."
 ---
