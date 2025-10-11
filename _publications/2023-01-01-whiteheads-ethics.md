@@ -1,7 +1,7 @@
 ---
 title: "Whitehead's Ethics: Fill in the Blanks"
 collection: publications
-category: manuscripts
+category: paper
 permalink: /publication/2023-01-01-whiteheads-ethics
 excerpt: "The paper examines Whitehead's singular guest lecture in Richard Clarke Cabot's seminar in social ethics."
 date: 2023-01-01
