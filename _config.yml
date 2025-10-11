@@ -81,12 +81,15 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  paper, manuscripts:
-    title: 'Articles and Chapters'
+publication_category:
+  paper: &articles
+    title: "Articles and Chapters"
+  chapter: *articles
+
   books:
-    title: 'Edited Volumes and Books'
+    title: "Edited Volumes and Books"
   misc:
-    title: 'Reviews and other Writings'
+    title: "Reviews and other Writings"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
