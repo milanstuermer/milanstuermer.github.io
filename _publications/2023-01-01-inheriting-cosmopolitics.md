@@ -3,7 +3,7 @@ title: "Inheriting Cosmopolitics: Pericles, Whitehead, Stengers"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-inheriting-cosmopolitics
-excerpt: 'This paper deals with the commercial political ontology of Isabelle Stengers by tracing it through the works of Alfred North Whitehead back to Pericles.'
+excerpt: 'This open-access paper deals with the commercial political ontology of Isabelle Stengers by tracing it through the works of Alfred North Whitehead back to Pericles.'
 date: 2023-01-01
 venue: 'Theory, Culture & Society'
 paperurl: 'https://journals.sagepub.com/doi/epdf/10.1177/02632764221092300'
