@@ -2,9 +2,9 @@
 title: "Inheriting Cosmopolitics: Pericles, Whitehead, Stengers"
 collection: publications
 category: paper
-permalink: /publication/2023-01-01-inheriting-cosmopolitics
+permalink: /publication/2023-01-10-inheriting-cosmopolitics
 excerpt: 'This open-access paper deals with the commercial political ontology of Isabelle Stengers by tracing it through the works of Alfred North Whitehead back to Pericles.'
-date: 2023-01-01
+date: 2023-01-10
 venue: 'Theory, Culture & Society'
 paperurl: 'https://journals.sagepub.com/doi/epdf/10.1177/02632764221092300'
 citation: 'Stürmer, Milan, and Daniel Bella. 2023. ‘Inheriting Cosmopolitics: Pericles, Whitehead, Stengers’. <i>Theory, Culture & Society</i> 40 (3): 3–21. https://doi.org/10.1177/02632764221092300.'
