@@ -2,11 +2,11 @@
 title: "Relationen Denken: Teilhabe, Verwandtschaft und Innere Beziehungen nach Marylin Strathern"
 collection: publications
 category: paper
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: "This open-access, German langauge chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations.“
+permalink: /publication/2023-relationen-denken
+excerpt: "This open-access, German langauge chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations."
 date: 2023-01-01
 venue: "Mediale Teilhabe: Partizipation zwischen Anspruch und Inanspruchnahme"
-paperurl: ""
+paperurl: "https://mediarep.org/server/api/core/bitstreams/0685a474-9b56-4b34-bdc0-a5c35ac1857e/content"
 citation: "Stürmer, Milan. 2023. &quot;Relationen Denken: Teilhabe, Verwandtschaft Und Innere Beziehungen Nach Marylin Strathern.&quot In <i>Mediale Teilhabe: Partizipation Zwischen Anspruch Und Inanspruchnahme</i>, edited by Beate Ochsner. Meson Press."
 ---
 
