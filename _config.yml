@@ -81,7 +81,7 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  paper:
+  paper; manuscripts:
     title: 'Articles and Chapters'
   books:
     title: 'Edited Volumes and Books'
