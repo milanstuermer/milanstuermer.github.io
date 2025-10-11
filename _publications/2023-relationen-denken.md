@@ -14,4 +14,3 @@ Der in den New Kinship Studies und besonders von Marilyn Strathern entwickelte R
 Genealogie des Relationsdenkens bei Strathern auf. Auf der Grundlage von Stratherns komplexer Kritik am Thatcherismus sowie ihrer wegweisenden Aufnahme von Bertrell Ollmans "relationaler" Marxlektüre wird Stratherns 
 Unterscheidung zwischen inneren und äußeren Beziehungen dargestellt. Vor dem Hintergrund der ökonomischen Debatten um relationale Technologien in den 1990er Jahren wird die Frage des Verschaltens als Prozess adressiert, der aus externen Relationen interne und aus internen externe werden lässt.
 
-![Buchcover: Relationen Denken]({{ "images/cover_mediale_teilhabe.jpg" | images/cover_mediale_teilhabe.jpg }})
