@@ -1,7 +1,7 @@
 ---
 title: "Relationen Denken: Teilhabe, Verwandtschaft und Innere Beziehungen nach Marylin Strathern"
 collection: publications
-category: paper
+category: chapter
 permalink: /publication/2023-relationen-denken
 excerpt: "This open-access, German langauge chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations."
 date: 2023-01-01
