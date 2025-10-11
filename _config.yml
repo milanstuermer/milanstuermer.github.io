@@ -82,10 +82,8 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
 publication_category:
-  paper: &articles
+  paper: 
     title: "Articles and Chapters"
-  chapter: *articles
-
   books:
     title: "Edited Volumes and Books"
   misc:
