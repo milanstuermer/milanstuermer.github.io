@@ -23,10 +23,10 @@ repository               : "milanstuermer/milanstuermer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "profile_square.png"
   name             : # "Milan Stürmer"
   pronouns         : # example: "she/her"  
-  bio              : # "Postdoctoral Researcher at the Erasmus School of Philosophy"
+  bio              : "Postdoctoral Researcher at the Erasmus School of Philosophy"
   location         : "Rotterdam, Netherlands"
   employer         : "Erasmus University"
   uri              : "https://www.milanstuermer.com/"
