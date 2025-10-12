@@ -1,11 +1,11 @@
 ---
-title: "Post-Mass Media and Participation"
+title: "Editorial on Post-Mass-Media"
 collection: publications
 category: paper
 permalink: /publication/2021-post-mass-media
 excerpt: "Michel Schreiber and I survey how early career researchers adopt and adapt the concept of post-media for their work today to allow a reframing of the question of participation after the end of the 20th century."
 date: 2021-01-01
-venue: "Whitehead at Harvard, 1925-1927"
+venue: "Post-Mass Media and Participation (Special Issue)"
 paperurl: "https://mediarep.org/server/api/core/bitstreams/39d32d41-7b42-447d-bd31-a8d4e5d398a0/content"
 citation: "Stürmer, Milan, and Michel Schreiber. 2021. &quot;Post-Mass Media and Participation (Special Issue).&quot <i>Augenblick: Konstanzer Hefte Zur Medienwissenschaft</i>, 80: 5–16."
 ---
