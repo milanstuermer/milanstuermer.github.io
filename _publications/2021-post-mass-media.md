@@ -1,5 +1,5 @@
 ---
-title: "Editorial on Post-Mass-Media"
+title: "Post-Mass Media and Participation"
 collection: publications
 category: paper
 permalink: /publication/2021-post-mass-media
