@@ -87,7 +87,7 @@ publication_category:
   book:
     title: "Books and Edited Volumes"
   misc:
-    title: "Reviews and other Writings"
+    title: "Reviews and other Writings (Selection)"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
