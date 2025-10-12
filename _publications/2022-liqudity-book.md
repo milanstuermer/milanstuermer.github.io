@@ -5,7 +5,7 @@ category: book
 permalink: /publication/2022-liqudity-book.md
 excerpt: "Placed at the intersection of art, media, and cultural studies as well as economic theory, this edited volume investigates the cultural logic of environmentalization. As flows, circulations, and liquidity resurface in all aspects of recent culture and contemporary art, we investigate the hypothesis of a genuine cultural logic of environmentalization through these three concepts."
 date: 2022-01-01
-venue: ""
+venue: "Critical Stances"
 paperurl: "https://press.uchicago.edu/ucp/books/book/distributed/L/bo184793407.html"
 citation: "Stürmer, Milan, Holger Kuhn, and Mathias Denecke, eds. 2022. <i>Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization</i>. Diaphanes, University of Chicago Press."
 ---
