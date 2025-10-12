@@ -93,9 +93,11 @@ publication_category:
 talk_category:
 talk_category:
   talk: 
-    title: "Talks and Presentations"
+    title: "Presentations and Conference Papers"
   organised:
-    title: "Books and Edited Volumes"
+    title: "Organised Events"
+  workshop:
+    title: "Workshops"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
