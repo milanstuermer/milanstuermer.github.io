@@ -24,9 +24,9 @@ repository               : "milanstuermer/milanstuermer.github.io"
 author:
   # Biographic information
   avatar           : "profile_square.png"
-  name             : # "Milan Stürmer"
+  name             : "Milan Stürmer"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher at the Erasmus School of Philosophy"
+  bio              : # "Postdoctoral Researcher at the Erasmus School of Philosophy"
   location         : "Rotterdam, Netherlands"
   employer         : "Erasmus University"
   uri              : "https://www.milanstuermer.com/"
