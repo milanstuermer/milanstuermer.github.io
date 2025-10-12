@@ -11,11 +11,6 @@ author_profile: false
 
 {% include base_path %}
 
-<!-- Lines for the thumbnail -->
-{% for post in site.publications reversed %}
-  {% include archive-single.html type="list" %}
-{% endfor %}
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
