@@ -8,4 +8,3 @@ venue: "Institute for Basic Research in the History of Philosophy (IGP)"
 date: 2024
 location: "University of Wuppertal"
 ---
-
