@@ -89,13 +89,6 @@ publication_category:
   misc:
     title: "Reviews and other Writings (Selection)"
 
-    # Talk Category - The following the list of talk categories and their headings
-talks_category:
-talks_category:
-  talk: 
-    title: "Talks and Presentations"
-  organised:
-    title: "Organised Conferences"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -295,7 +288,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
