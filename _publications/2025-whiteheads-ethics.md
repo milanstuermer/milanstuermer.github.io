@@ -3,7 +3,7 @@ title: "Whitehead's Ethics: Fill in the Blanks"
 collection: publications
 category: paper
 permalink: /publication/2025-whiteheads-ethics
-excerpt: "In this paper, Daniel Bella and I examine Whitehead's singular guest lecture in Richard Clarke Cabot's seminar in social ethics. This paper was already published in <i>Process Studies</i> in 2023, but has been updated for this collected volume in which Whitehead-scholars examine the significance of the <i>The Harvard Lectures of Alfred North Whitehead, 1925–1927: General Metaphysical Problems of Science</i>, which covers Whitehead’s second and third years of American lectures in philosophy."
+excerpt: "In this paper, Daniel Bella and I examine Whitehead's singular guest lecture in Richard Clarke Cabot's seminar in social ethics. This paper was already published in <i>Process Studies</i> in 2023, but has been updated for this collected volume in which Whitehead-scholars examine the significance of the <i>The Harvard Lectures of Alfred North Whitehead, 1925–1927: General Metaphysical Problems of Science</i>."
 date: 2025-01-01
 venue: "Whitehead at Harvard, 1925-1927"
 paperurl: "https://edinburghuniversitypress.com/book-whitehead-at-harvard-1925-1927.html"
