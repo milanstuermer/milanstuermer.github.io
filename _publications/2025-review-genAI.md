@@ -7,8 +7,7 @@ excerpt: "The challenge Carrigan's book leaves for all of us is to create broade
 date: 2025-01-01
 venue: "Postdigital Science and Education"
 paperurl: "https://link.springer.com/article/10.1007/s42438-025-00580-x"
-citation: "Stürmer, Milan. 2025. &quot;Review of Mark Carrigan (2025). Generative AI for Academics.&quot <i>Postdigital Science and Education<\i>. https://doi.org/10.1007/s42438-025-00580-x.
-"
+citation: "Stürmer, Milan. 2025. &quot;Review of Mark Carrigan (2025). Generative AI for Academics.&quot <i>Postdigital Science and Education</i>. https://doi.org/10.1007/s42438-025-00580-x."
 ---
 
   
