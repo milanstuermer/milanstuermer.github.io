@@ -89,6 +89,13 @@ publication_category:
   misc:
     title: "Reviews and other Writings (Selection)"
 
+    # Talk Category - The following the list of publication categories and their headings
+talk_category:
+talk_category:
+  talk: 
+    title: "Articles and Chapters"
+  organised:
+    title: "Books and Edited Volumes"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
