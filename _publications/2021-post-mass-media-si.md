@@ -1,11 +1,10 @@
 ---
-title: "Post-Mass Media and Participation"
+title: "Post-Mass Media and Participation (Special Issue)"
 collection: publications
 category: book
 permalink: /publication/2021-post-mass-media-si
 excerpt: "This special issue examines how early career researchers adopt and adapt the concept of post-media for their work today to allow a reframing of the question of participation after the end of the 20th century."
 date: 2021-01-01
-venue: "Post-Mass Media and Participation (Special Issue)"
 paperurl: "https://mediarep.org/server/api/core/bitstreams/39d32d41-7b42-447d-bd31-a8d4e5d398a0/content"
 citation: "Stürmer, Milan, and Michel Schreiber, eds. 2021. &quot;Post-Mass Media and Participation (Special Issue).&quot <i>Augenblick: Konstanzer Hefte Zur Medienwissenschaft</i>, 80."
 ---
