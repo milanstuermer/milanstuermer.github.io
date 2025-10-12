@@ -84,7 +84,7 @@ publication_category:
 publication_category:
   paper: 
     title: "Articles and Chapters"
-  books:
+  book:
     title: "Edited Volumes and Books"
   misc:
     title: "Reviews and other Writings"
