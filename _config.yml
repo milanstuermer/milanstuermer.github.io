@@ -28,17 +28,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Postdoctoral Researcher at the Erasmus School of Philosophy"
   location         : "Rotterdam, Netherlands"
-  employer         : # "Erasmus University"
-  uri              : # URL
+  employer         : "Erasmus University"
+  uri              : "https://www.milanstuermer.com/"
   email            : "hello@milanstuermer.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?hl=en&user=xEaMuMYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=xEaMuMYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3791-9240"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
