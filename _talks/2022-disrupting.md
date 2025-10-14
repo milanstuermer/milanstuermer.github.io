@@ -1,5 +1,5 @@
 ---
-title: "‘Disrupting the Post-Pandemic University"
+title: "Disrupting the Post-Pandemic University"
 collection: talks
 category: "talk"
 type: "Presentation with Mark Carrigan"
