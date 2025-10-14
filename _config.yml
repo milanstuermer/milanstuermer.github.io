@@ -93,11 +93,11 @@ publication_category:
 talk_category:
 talk_category:
   talk: 
-    title: "Lectures and Presentations"
+    title: "Lectures and Presentations (Selection)"
   organised:
     title: "Organised Events"
   workshop:
-    title: "Workshops"
+    title: "Public Speaking and Non-Academic Presentations"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
