@@ -1,5 +1,5 @@
 ---
-title: "Resisting AI: An Anti-fascist Approach to Artificial Intelligence – review"
+title: "Review of Resisting AI: An Anti-fascist Approach to Artificial Intelligence"
 collection: publications
 category: misc
 permalink: /publication/2023-resisting-ai-an-anti-fascist-approach-to-artificial-intelligence-review
