@@ -1,5 +1,5 @@
 ---
-title: "Review of Mark Carrigan (2025). Generative AI for Academics"
+title: "Review of Generative AI for Academics"
 collection: publications
 category: misc
 permalink: /publication/2025-review-genAI
