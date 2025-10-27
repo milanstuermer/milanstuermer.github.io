@@ -9,4 +9,4 @@ date: 2023-01-01
 location: "online"
 ---
 
-From 2023 to 2025, together with Lennart Posch and Daniel Bella, I co-organized a regular seminar series for the <i>European Society for Process Thought<\i>. This series featured invited researchers discussing their work-in-progress and was meant as a hybrid between a seminar and a community event for all those working in process thought. 
+From 2023 to 2025, together with Lennart Posch and Daniel Bella, I co-organized a regular seminar series for the <i>European Society for Process Thought</i>. This series featured invited researchers discussing their work-in-progress and was meant as a hybrid between a seminar and a community event for all those working in process thought. 
