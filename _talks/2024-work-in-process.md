@@ -1,5 +1,5 @@
 ---
-title: "Work in Process"
+title: "Work-in-Process"
 collection: talks
 category: "organised"
 type: "Fortnightly seminar series organised with Lennart Posch and Daniel Bella"
