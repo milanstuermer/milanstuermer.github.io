@@ -95,9 +95,9 @@ talk_category:
   talk: 
     title: "Lectures and Presentations (Selection)"
   organised:
-    title: "Organised Events"
+    title: "Organised Events (Selection)"
   workshop:
-    title: "Public Speaking and Non-Academic Presentations"
+    title: "Public Speaking and Non-Academic Presentations (Selection)"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
