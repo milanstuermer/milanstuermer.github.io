@@ -18,4 +18,3 @@ Over the last fifteen years, I have moved around a lot and my academic journey h
 
 I am not representing myself on social media platforms anymore. If you want to get in touch, just send me an email!
 
-This website is still under construction, so everything else you see is just a placeholder for now. 
