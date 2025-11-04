@@ -8,8 +8,6 @@ venue: "The Bifurcation Operation: Forking Modernity"
 date: 2025-11-27
 location: "Leuphana University Lüneburg"
 ---
-
-
 In my talk, I will trace the term “bifurcation” through Whitehead’s work in the 1920s as he slowly moves toward his metaphysical system in _Process and Reality_. Paying particular attention to his lectures at Harvard between 1924 and 1927, I will reconstruct Whitehead’s various uses of the term just as it disappears from his published writings. I will end by posing the (speculative) question of why Whitehead largely abandons the term to the research workshop as a topic for discussion.\
 [Full Programme Here](https://www.leuphana.de/fileadmin/user_upload/portale/disruptive-contition/bifurcation_operation/bifurcation-operation-programme.pdf)
 
