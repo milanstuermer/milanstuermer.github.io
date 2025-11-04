@@ -92,6 +92,8 @@ publication_category:
     # Talk Category - The following the list of publication categories and their headings
 talk_category:
 talk_category:
+  upcoming: 
+    title: "Upcoming Events"
   talk: 
     title: "Lectures and Presentations (Selection)"
   organised:
