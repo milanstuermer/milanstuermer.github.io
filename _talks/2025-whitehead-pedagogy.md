@@ -1,7 +1,7 @@
 ---
 title: "Thinking With the Past: A Whiteheadian Pedagogy"
 collection: talks
-category: "upcoming"
+category: "talk"
 type: "Presentation"
 permalink: /talks/2025-whitehead-pedagogy
 venue: "Whitehead for Education, the Humanities, and the Social Sciences. In Pursuit of a Metamorphosis of Pedagogy"
