@@ -1,7 +1,7 @@
 ---
 title: "A Decade of Bifurcation: Physical Perceptivity and the Principle of Solidarity"
 collection: talks
-category: "upcoming"
+category: "talk"
 type: "Presentation"
 permalink: /talks/2025-decade-bifurcation
 venue: "The Bifurcation Operation: Forking Modernity"
