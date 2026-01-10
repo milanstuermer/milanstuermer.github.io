@@ -1,7 +1,7 @@
 ---
 title: "Cultures of Process. Of Lone Geniuses and Emergent Novelty"
 collection: talks
-category: "upcoming"
+category: "talk"
 type: "Presentation"
 permalink: /talks/2025-cultures-of-process
 venue: "GenAI & Creative Practices: Past, Present, and Future"
