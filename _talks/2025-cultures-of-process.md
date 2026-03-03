@@ -8,8 +8,7 @@ venue: "GenAI & Creative Practices: Past, Present, and Future"
 date: 2025-11-27
 location: "University of Amsterdam"
 ---
-In this conference paper, I try to advances a non-agentic, process-oriented account of novelty that complements social-ontological analyses of LLMs while resisting both techno-determinism and romantic
-individualism.
+In this conference paper, I advance a non-agentic, process-oriented account of novelty that complements social-ontological analyses of LLMs while resisting both techno-determinism and romantic individualism.
 Attributing creativity to the products of an LLM, therefore, is not a verdict on
 transformer software per se but a reflection of how its outputs are woven into
 ongoing cultural processes of novelty selection and valuation. Statistical variations
