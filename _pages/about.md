@@ -16,5 +16,5 @@ Apart from (and intertwined with) my philosophical work, I have a background in 
 
 Over the last fifteen years, I have moved around a lot and my academic journey has taken me to Bristol, Lüneburg, Cambridge, and Hamburg, before coming to Rotterdam. 
 
-I am not representing myself on social media platforms anymore. If you want to get in touch, just send me an email!
+This is a personal website. I am not representing myself on social media platforms anymore. If you want to get in touch, just send me an email!
 
