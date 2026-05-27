@@ -8,4 +8,5 @@ venue: "Nieuwe Instituut"
 date: 2026-06-21
 location: "Rotterdam, Netherlands"
 ---
-In this talk for the –1 Digital Lab Séances, I developed a process-philosophical reading of the concept of technodiversity, focussing on processes of technodiversification. 
+In this talk for the –1 Digital Lab Séances, I develop a process-philosophical reading of the concept of technodiversity, focussing on processes of technodiversification. 
+How do we open up the question of creativity without falling into a kitschified propositionalism? And what conditions the creativity?
