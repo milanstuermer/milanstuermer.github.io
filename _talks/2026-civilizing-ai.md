@@ -2,7 +2,7 @@
 title: "Civilizing AI: Common Sense and Abstraction in a Mechanised Society"
 collection: talks
 category: "talk"
-type: "Online Presentation"
+type: "Presentation"
 permalink: /talks/2026-civilizing-ai
 venue: "14th International Whitehead Conference"
 date: 2026-07-17
