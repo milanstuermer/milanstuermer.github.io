@@ -7,5 +7,6 @@ excerpt: "In this introduction, we investigate why the notions of liquidity, flo
 date: 2022-01-01
 venue: "Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization"
 paperurl: "https://www.diaphanes.de/titel/introduction-the-cultural-logic-of-environmentalization-7425"
-citation: "Denecke, Mathias, Holger Kuhn, and Milan Stürmer. 2022. &quot;The Cultural Logic of Environmentalization.&quot In <i>Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization</i>, edited by Milan Stürmer, Holger Kuhn, and Mathias Denecke. Diaphanes, University of Chicago Press."
+paperurl_label: "Publisher page"
+citation: "Denecke, Mathias, Holger Kuhn, and Milan Stürmer. 2022. &quot;The Cultural Logic of Environmentalization.&quot; In <i>Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization</i>, edited by Milan Stürmer, Holger Kuhn, and Mathias Denecke. Diaphanes, University of Chicago Press."
 ---

@@ -7,5 +7,6 @@ excerpt: "In this review, we discuss Dan McQuillan's call for a restructuring of
 date: 2023-11-16
 venue: "LSE Review of Books"
 paperurl: "https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/16/resisting-ai-an-anti-fascist-approach-to-artificial-intelligence-review/"
-citation: "Stürmer, Milan, and Mark Carrigan. 2023. &quot;Resisting AI: An Anti-fascist Approach to Artificial Intelligence – review.&quot <i>Impact of Social Sciences (LSE Impact Blog)</i>. https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/16/resisting-ai-an-anti-fascist-approach-to-artificial-intelligence-review/."
+paperurl_label: "Read online"
+citation: "Stürmer, Milan, and Mark Carrigan. 2023. &quot;Resisting AI: An Anti-fascist Approach to Artificial Intelligence – review.&quot; <i>Impact of Social Sciences (LSE Impact Blog)</i>. https://blogs.lse.ac.uk/impactofsocialsciences/2023/11/16/resisting-ai-an-anti-fascist-approach-to-artificial-intelligence-review/."
 ---

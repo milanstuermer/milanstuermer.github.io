@@ -1,39 +1,30 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Privacy Policy"
+description: "How this website handles hosting, saved preferences, external resources, and email."
+modified: 2026-11-01
 ---
 
-{% include base_path %}
-{% include toc %}
+This is Milan Stürmer's personal academic website, hosted as a static site on GitHub Pages.
 
-## Privacy Policy
+## Hosting
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+GitHub logs visitors' IP addresses for security purposes, including visits made without a GitHub account. For details, see [GitHub's explanation of data collection on Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) and the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+## Analytics and comments
 
-### Log Files
+This site does not use Google Analytics, advertising trackers, or a third-party commenting system.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+## Theme preference
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+If you choose a light or dark theme, the site saves that preference in your browser's local storage so that it can be remembered on later visits. You can remove the preference by clearing this site's browser data.
 
-All of this information is not linked to anything that is personally identifiable.
+## External resources and links
 
-### Cookies and Web Beacons
+Pages containing equations, charts, or diagrams may load the relevant display libraries from jsDelivr or cdnjs. When your browser requests those resources, the provider receives technical information such as your IP address.
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+Links to publishers, ORCID, Google Scholar, and other websites take you to services governed by their own privacy policies.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+## Contact
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+I use information you send by email to respond to your message. For questions about this website or its privacy practices, please contact [hello@milanstuermer.com](mailto:hello@milanstuermer.com).

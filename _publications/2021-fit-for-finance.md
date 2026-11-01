@@ -7,5 +7,6 @@ excerpt: "Parole.cc is a website that commissions and publishes new critical te
 date: 2021-01-01
 venue: "Parole Compendium: Form Follows Finance"
 paperurl: "https://parole.cc/compendiums/form-follows-finance/fit-for-finance/"
-citation: "Stürmer, Milan. 2021. &quot;Fit for Finance&quot. <i>Parole Compendium: Form Follows Finance</i>. https://parole.cc/compendiums/form-follows-finance/fit-for-finance/."
+paperurl_label: "Read online"
+citation: "Stürmer, Milan. 2021. &quot;Fit for Finance&quot;. <i>Parole Compendium: Form Follows Finance</i>. https://parole.cc/compendiums/form-follows-finance/fit-for-finance/."
 ---

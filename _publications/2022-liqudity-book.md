@@ -9,6 +9,7 @@ venue: "Critical Stances, Diaphanes/University of Chicago Press"
 header:
   teaser: /images/cover/cover_liquidity.jpg
 paperurl: "https://press.uchicago.edu/ucp/books/book/distributed/L/bo184793407.html"
+paperurl_label: "Publisher page"
 citation: "Stürmer, Milan, Holger Kuhn, and Mathias Denecke, eds. 2022. <i>Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization</i>. Diaphanes, University of Chicago Press."
 ---
 

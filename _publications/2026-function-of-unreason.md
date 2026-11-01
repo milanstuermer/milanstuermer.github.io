@@ -7,6 +7,7 @@ excerpt: "I reinterpret Bernard Stiegler’s late neganthropological project thr
 date: 2026-03-15
 venue: "Philosophy Kitchen"
 paperurl: "https://ojs.unito.it/index.php/philosophykitchen/article/view/13878/11176"
+paperurl_label: "Read online"
 citation: 'Stürmer, Milan. 2026. “The Function of Unreason. Technology, Ecology, and Economic Process.” <i>Philosophy Kitchen</i> 24: 203–216. <a href="https://doi.org/10.13135/2385-1945/13878">https://doi.org/10.13135/2385-1945/13878</a>.'
 ---
 

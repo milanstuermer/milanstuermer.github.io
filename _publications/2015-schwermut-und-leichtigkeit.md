@@ -7,6 +7,7 @@ excerpt: "Based on research done during my BA, I argue in this German-language p
 date: 2015-01-01
 venue: "Paidia – Zeitschrift Für Computerspielforschung"
 paperurl: "https://paidia.de/schwermut-und-leichtigkeit-uber-die-rolle-der-schwerkraft-in-videospielen"
-citation: "Stürmer, Milan. 2015. &quot;Schwermut Und Leichtigkeit: Über Die Rolle Der Schwerkraft in Videospielen.&quot <i>Paidia – Zeitschrift Für Computerspielforschung. </i>"
+paperurl_label: "Read online"
+citation: "Stürmer, Milan. 2015. &quot;Schwermut Und Leichtigkeit: Über Die Rolle Der Schwerkraft in Videospielen.&quot; <i>Paidia – Zeitschrift Für Computerspielforschung. </i>"
 ---
 
