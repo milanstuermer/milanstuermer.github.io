@@ -1,7 +1,5 @@
 {% include base_path %}
 
-<p><a href="{{ base_path }}/sitemap/">Sitemap</a> · <a href="{{ base_path }}/terms/">Privacy</a></p>
-
 {% comment %}Load specialist display libraries only where the rendered content needs them.{% endcomment %}
 {% if page.mathjax or content contains '$$' or content contains '\(' or content contains '\[' %}
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>

@@ -66,6 +66,13 @@
   }
 }
 
+.archive__item--publication {
+  // Match citations and resource links to the existing abstract text size.
+  > p:not(.archive__item-venue) {
+    font-size: $type-size-6;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
