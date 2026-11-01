@@ -27,6 +27,22 @@
   }
 }
 
+.archive__category-title {
+  margin: 2.5em 0 0.8em;
+  padding-bottom: 0.45em;
+  color: #24677b;
+  border-bottom: 1px solid #9cb8c0;
+
+  + .list__item .archive__item-title {
+    margin-top: 0.75em;
+  }
+}
+
+html[data-theme="dark"] .archive__category-title {
+  color: #92c9d8;
+  border-bottom-color: #516f79;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
