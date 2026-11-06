@@ -1,7 +1,7 @@
 ---
 title: "Democracy, Big Tech and Technofascism"
 collection: talks
-category: "workshop"
+category: "talk"
 type: "Panel discussion"
 permalink: /talks/2026-democracy-big-tech-technofascism
 venue: "Arminius"
