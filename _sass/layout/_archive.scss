@@ -89,6 +89,25 @@ html[data-theme="dark"] .archive__category-title {
   }
 }
 
+.publication-translations {
+  margin-top: 1em;
+  font-size: smaller;
+
+  p {
+    margin: 0 0 0.5em;
+    font-size: inherit;
+    text-indent: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.archive__item--publication .publication-translations {
+  font-size: $type-size-6;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

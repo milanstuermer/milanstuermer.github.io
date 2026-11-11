@@ -1,0 +1,13 @@
+{% if include.translations and include.translations.size > 0 %}
+<div class="publication-translations">
+  <p class="publication-translations__heading"><strong>Translations</strong></p>
+  {% for translation in include.translations %}
+    <p class="publication-translations__edition">
+      <strong>{{ translation.language | escape }}{% if translation.year %} ({{ translation.year | escape }}){% endif %}:</strong>
+      <a href="{{ translation.url | escape }}"{% if translation.lang %} lang="{{ translation.lang | escape }}"{% endif %}><i>{{ translation.title | escape }}</i></a><br>
+      {% if translation.translator %}Translated by {{ translation.translator | escape }}.{% endif %}
+      {% if translation.publisher %}{{ translation.publisher | escape }}.{% endif %}
+    </p>
+  {% endfor %}
+</div>
+{% endif %}
