@@ -1,6 +1,9 @@
 ---
 title: "Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization"
 collection: publications
+cover: "/images/cover/cover_liquidity.jpg"
+cover_width: 928
+cover_height: 1497
 category: book
 permalink: /publication/2022-liqudity-book
 excerpt: "Placed at the intersection of art, media, and cultural studies as well as economic theory, this edited volume investigates the cultural logic of environmentalization. As flows, circulations, and liquidity resurface in all aspects of recent culture and contemporary art, we investigate the hypothesis of a genuine cultural logic of environmentalization through these three concepts."

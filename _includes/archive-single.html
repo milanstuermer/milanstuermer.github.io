@@ -12,8 +12,19 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign has_book_cover = false %}
+{% if post.collection == 'publications' and post.category == 'book' and post.cover and include.type != 'grid' %}
+  {% assign has_book_cover = true %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item{% if post.collection == 'publications' %} archive__item--publication{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if post.collection == 'publications' %} archive__item--publication{% endif %}{% if has_book_cover %} archive__item--with-cover{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if has_book_cover %}
+      {% assign cover_url = post.cover_url | default: post.paperurl | default: post.url %}
+      {% include publication-cover.html image=post.cover url=cover_url title=post.title width=post.cover_width height=post.cover_height %}
+      <div class="publication-content">
+    {% endif %}
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -89,5 +100,8 @@
 
     {% include publication-translations.html translations=post.translations %}
 
+    {% if has_book_cover %}
+      </div>
+    {% endif %}
   </article>
 </div>

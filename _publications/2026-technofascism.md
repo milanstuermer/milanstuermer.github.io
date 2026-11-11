@@ -1,6 +1,10 @@
 ---
 title: "Technofascism (Special Issue)"
 collection: publications
+cover: "/images/cover/cover_technofascism.jpg"
+cover_width: 360
+cover_height: 508
+cover_url: "https://doi.org/10.25819/ubsi/11107"
 category: book
 permalink: /publication/2026-technofascism
 excerpt: "Co-edited with Laura Hille and Felix Hüttemann, this special issue examines the connections between technology and contemporary authoritarian politics through contributions on digital infrastructures, meritocracy, universities, neofeudalism, and technofascism’s histories and international variations."

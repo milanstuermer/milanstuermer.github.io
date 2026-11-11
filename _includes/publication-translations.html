@@ -2,12 +2,17 @@
 <div class="publication-translations">
   <p class="publication-translations__heading"><strong>Translations</strong></p>
   {% for translation in include.translations %}
-    <p class="publication-translations__edition">
-      <strong>{{ translation.language | escape }}{% if translation.year %} ({{ translation.year | escape }}){% endif %}:</strong>
-      <a href="{{ translation.url | escape }}"{% if translation.lang %} lang="{{ translation.lang | escape }}"{% endif %}><i>{{ translation.title | escape }}</i></a><br>
-      {% if translation.translator %}Translated by {{ translation.translator | escape }}.{% endif %}
-      {% if translation.publisher %}{{ translation.publisher | escape }}.{% endif %}
-    </p>
+    <div class="publication-translations__edition{% if translation.cover %} publication-translations__edition--with-cover{% endif %}">
+      {% if translation.cover %}
+        {% include publication-cover.html image=translation.cover url=translation.url title=translation.title width=translation.cover_width height=translation.cover_height small=true %}
+      {% endif %}
+      <p>
+        <strong>{{ translation.language | escape }}{% if translation.year %} ({{ translation.year | escape }}){% endif %}:</strong>
+        <a href="{{ translation.url | escape }}"{% if translation.lang %} lang="{{ translation.lang | escape }}"{% endif %}><i>{{ translation.title | escape }}</i></a><br>
+        {% if translation.translator %}Translated by {{ translation.translator | escape }}.{% endif %}
+        {% if translation.publisher %}{{ translation.publisher | escape }}.{% endif %}
+      </p>
+    </div>
   {% endfor %}
 </div>
 {% endif %}
