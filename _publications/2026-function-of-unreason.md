@@ -1,6 +1,11 @@
 ---
 title: "The Function of Unreason. Technology, Ecology, and Economic Process"
 collection: publications
+cover: "/images/cover/cover_philosophy_kitchen_24.jpg"
+cover_width: 360
+cover_height: 509
+cover_title: "Philosophy Kitchen 24 (2026)"
+cover_url: "https://ojs.unito.it/index.php/philosophykitchen/issue/view/1005"
 category: paper
 permalink: /publication/2026-function-of-unreason
 excerpt: "I reinterpret Bernard Stiegler’s late neganthropological project through Whitehead’s concept of reason, tracing the role of Nicholas Georgescu-Roegen’s bio-physio-economics in this encounter. The article connects technology, ecology, and economy through reason as a capacity to orient novelty toward living better, and reads the Neganthropocene as a programme for sociotherapy."

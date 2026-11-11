@@ -1,6 +1,11 @@
 ---
 title: "Relationen Denken: Teilhabe, Verwandtschaft und Innere Beziehungen nach Marilyn Strathern"
 collection: publications
+cover: "/images/cover/cover_mediale_teilhabe.jpg"
+cover_width: 360
+cover_height: 570
+cover_title: "Mediale Teilhabe"
+cover_url: "https://meson.press/books/mediale-teilhabe/"
 category: paper
 permalink: /publication/2023-relationen-denken
 excerpt: "This open-access, German-language chapter is for those interested in the relational turn and the microvocabulary of dissolution that we can find in the New Kinship Studies generally and particularly in the ethnography of Marilyn Strathern. Following Strathern, I am asking what appears and disappears as a cultural resource for thinking about relations."

@@ -1,6 +1,11 @@
 ---
 title: "Welcome to Technofascism"
 collection: publications
+cover: "/images/cover/cover_technofascism.jpg"
+cover_width: 360
+cover_height: 508
+cover_title: "Technofascism (Special Issue)"
+cover_url: "https://doi.org/10.25819/ubsi/11107"
 category: paper
 permalink: /publication/2026-welcome-to-technofascism
 excerpt: "In our introduction to the special issue <i>Technofascism</i> of <i>Navigationen</i>, we historicise the concept of technofascism, examine how technological systems and imaginaries reinforce authoritarian politics, and introduce the issue’s contributions, asking what criticism can do when reactionary tendencies are increasingly proclaimed openly."

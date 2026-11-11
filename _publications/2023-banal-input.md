@@ -1,6 +1,11 @@
 ---
 title: "Protokoll 05: Banal Input/Output System"
 collection: publications
+cover: "/images/cover/cover_quatschmaschinen.jpg"
+cover_width: 360
+cover_height: 557
+cover_title: "ChatGPT und andere »Quatschmaschinen«"
+cover_url: "https://www.transcript-verlag.de/978-3-8376-6908-4/chatgpt-und-andere-quatschmaschinen/"
 category: paper
 permalink: /publication/2023-banal-input
 excerpt: "Co-written with Mathias Denecke, this open-access, German-language paper contributes to an experimental collection that aims to document the passage in media history into a new era of ubiquitous AI."

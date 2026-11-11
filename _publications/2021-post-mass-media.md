@@ -1,6 +1,11 @@
 ---
 title: "Post-Mass Media and Participation"
 collection: publications
+cover: "/images/cover/cover_post_mass_media.jpg"
+cover_width: 360
+cover_height: 511
+cover_title: "Post-Mass Media and Participation (Special Issue)"
+cover_url: "https://www.schueren-verlag.de/zeitschriften/augenblick/titel/post-mass-media-and-participation.html"
 category: paper
 permalink: /publication/2021-post-mass-media
 excerpt: "Michel Schreiber and I survey how early career researchers adopt and adapt the concept of post-media for their work today to allow a reframing of the question of participation after the end of the 20th century."

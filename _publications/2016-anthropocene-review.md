@@ -1,6 +1,11 @@
 ---
 title: "Medienökologien fürs Anthropozän"
 collection: publications
+cover: "/images/cover/cover_zfm_14.jpg"
+cover_width: 360
+cover_height: 499
+cover_title: "Zeitschrift für Medienwissenschaft 14 (1/2016)"
+cover_url: "https://zfmedienwissenschaft.de/heft/archiv/14-12016-medienoekologien"
 category: misc
 permalink: /publication/2016-anthropocene-review
 excerpt: "Co-authored with Isabell Schrickel, this review essay looks at the discourse around the Anthropocene in media studies and covers Jussi Parikka's <i>The Anthrobscene</i> (2014), <i>A Geology of Media</i> (2015), as well as McKenzie Wark's <i>Molecular Red. Theory for the Anthropocene</i> (2015)."

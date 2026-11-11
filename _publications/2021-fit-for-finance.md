@@ -1,6 +1,11 @@
 ---
 title: "Fit for Finance"
 collection: publications
+cover: "/images/cover/cover_form_follows_finance.jpg"
+cover_width: 360
+cover_height: 508
+cover_title: "Form Follows Finance"
+cover_url: "https://parole.cc/compendiums/form-follows-finance/"
 category: misc
 permalink: /publication/2021-fit-for-finance
 excerpt: "Parole.cc is a website that commissions and publishes new critical texts and media about contemporary culture, in the form of design critique. In this contribution to the compendium on design and finance, I think through the organic critique of finance in design following Lewis Mumford, Thorstein Veblen, and the critique of political economy by Jonathan Nitzan and Shimshon Bichler."

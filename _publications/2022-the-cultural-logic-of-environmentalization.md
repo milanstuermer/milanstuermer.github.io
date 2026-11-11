@@ -1,6 +1,11 @@
 ---
 title: "The Cultural Logic of Environmentalization"
 collection: publications
+cover: "/images/cover/cover_liquidity.jpg"
+cover_width: 928
+cover_height: 1497
+cover_title: "Liquidity, Flows, Circulation: The Cultural Logic of Environmentalization"
+cover_url: "https://press.uchicago.edu/ucp/books/book/distributed/L/bo184793407.html"
 category: paper
 permalink: /publication/2022-the-cultural-logic-of-environmentalization
 excerpt: "In this introduction, we investigate why the notions of liquidity, flow, and circulation exert an irresistible lure on scholars and artists engaged in depicting the principles that undergird the workings of our contemporary world. Drawing on Fredric Jameson's work, we ask whether the concepts of liquidity, flow, and circulation might provide a useful means to grasp the cultural logic of today’s capitalism."
