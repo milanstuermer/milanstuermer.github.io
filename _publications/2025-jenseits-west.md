@@ -22,6 +22,7 @@ translations:
     cover_height: 533
     translator: "中村徳仁"
     publisher: "Chūōkōron-Shinsha"
+    isbn: "978-4-12-006076-2"
     url: "https://www.chuko.co.jp/tanko/2026/11/006076.html"
 ---
 

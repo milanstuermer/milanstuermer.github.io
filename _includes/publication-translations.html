@@ -11,6 +11,7 @@
         <a href="{{ translation.url | escape }}"{% if translation.lang %} lang="{{ translation.lang | escape }}"{% endif %}><i>{{ translation.title | escape }}</i></a><br>
         {% if translation.translator %}Translated by {{ translation.translator | escape }}.{% endif %}
         {% if translation.publisher %}{{ translation.publisher | escape }}.{% endif %}
+        {% if translation.isbn %}ISBN {{ translation.isbn | escape }}.{% endif %}
       </p>
     </div>
   {% endfor %}
