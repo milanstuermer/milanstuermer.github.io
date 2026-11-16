@@ -1,6 +1,12 @@
 ---
 title: "Democracy, Big Tech and Technofascism"
 collection: talks
+cover: "/images/talks/2026-democracy-dead-or-alive.jpg"
+cover_width: 848
+cover_height: 1200
+cover_title: "Democracy: Dead or Alive?"
+cover_alt: "Poster for the Democracy: Dead or Alive? festival at Arminius, Rotterdam, 5 November 2026"
+cover_url: "/images/talks/2026-democracy-dead-or-alive.jpg"
 category: "talk"
 type: "Panel discussion"
 permalink: /talks/2026-democracy-big-tech-technofascism

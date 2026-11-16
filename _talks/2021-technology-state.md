@@ -1,6 +1,12 @@
 ---
 title: "Technology and The State: The 200th anniversary of Hegel’s Philosophy of Right"
 collection: talks
+cover: "/images/talks/2021-technology-state.jpg"
+cover_width: 1000
+cover_height: 523
+cover_title: "Technology and The State"
+cover_alt: "Event graphic for Technology and The State, 20 November 2021"
+cover_url: "/images/talks/2021-technology-state.jpg"
 category: "organised"
 type: "Workshop"
 permalink: /talks/2021-technology-state

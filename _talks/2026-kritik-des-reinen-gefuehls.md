@@ -1,6 +1,12 @@
 ---
 title: "Kritik des reinen Gefühls [Critique of Pure Feeling]"
 collection: talks
+cover: "/images/talks/2026-sensing-sensorik-sensoren.jpg"
+cover_width: 724
+cover_height: 1024
+cover_title: "Sensing, Sensorik und Sensoren"
+cover_alt: "Conference poster for Sensing, Sensorik und Sensoren, University of Bonn, 9–11 April 2026"
+cover_url: "/images/talks/2026-sensing-sensorik-sensoren.jpg"
 category: "talk"
 type: "Presentation"
 permalink: /talks/2026-kritik-des-reinen-gefuehls

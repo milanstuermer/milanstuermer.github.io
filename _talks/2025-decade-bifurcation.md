@@ -1,6 +1,12 @@
 ---
 title: "A Decade of Bifurcation: Physical Perceptivity and the Principle of Solidarity"
 collection: talks
+cover: "/images/talks/2025-bifurcation-operation.jpg"
+cover_width: 849
+cover_height: 1200
+cover_title: "The Bifurcation Operation: Forking Modernity"
+cover_alt: "Programme cover for The Bifurcation Operation: Forking Modernity, Lüneburg, 26–28 November 2025"
+cover_url: "/images/talks/2025-bifurcation-operation.jpg"
 category: "talk"
 type: "Presentation"
 permalink: /talks/2025-decade-bifurcation
