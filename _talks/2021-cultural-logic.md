@@ -9,7 +9,8 @@ cover_alt: "Flyer for Liquidity, Flows, Circulation: The Cultural Logic of Envir
 cover_url: "/images/talks/2021-liquidity-flows-circulation.jpg"
 category: "organised"
 type: "Conference"
-permalink: /talks/2024-cultural-logic
+permalink: /talks/2021-cultural-logic
+redirect_from: /talks/2024-cultural-logic
 venue: "Leuphana University"
 date: 2021-04-22
 location: "Lüneburg"
