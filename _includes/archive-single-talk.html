@@ -12,8 +12,19 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign has_talk_cover = false %}
+{% if post.cover and include.type != "grid" %}
+  {% assign has_talk_cover = true %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if has_talk_cover %} archive__item--talk archive__item--with-cover{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if has_talk_cover %}
+      {% assign cover_url = post.cover_url | default: post.url | relative_url %}
+      {% assign cover_title = post.cover_title | default: post.title %}
+      {% include publication-cover.html image=post.cover url=cover_url title=cover_title alt=post.cover_alt width=post.cover_width height=post.cover_height %}
+      <div class="publication-content">
+    {% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -38,5 +49,8 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} </p>{% endif %}
     {% if post.excerpt %}<div itemprop="description">{{ post.excerpt | markdownify }}</div>{% endif %}
+    {% if has_talk_cover %}
+      </div>
+    {% endif %}
   </article>
 </div>

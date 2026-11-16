@@ -121,6 +121,12 @@ html[data-theme="dark"] .archive__category-title {
   }
 }
 
+.talk-poster {
+  width: 360px;
+  max-width: 100%;
+  margin-bottom: 1.5em;
+}
+
 .archive__item--with-cover {
   display: grid;
   grid-template-columns: 120px minmax(0, 1fr);
@@ -185,6 +191,10 @@ html[data-theme="dark"] .archive__category-title {
         grid-column: 1 / -1;
       }
     }
+  }
+
+  .archive__item--talk > .publication-content > .page__meta {
+    grid-column: 2;
   }
 }
 
